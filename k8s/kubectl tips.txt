@@ -1,0 +1,5 @@
+[Setup kubectl autocomplete]
+
+Copy below text and then right click on the web terminal to paste it, then enter to execute.
+
+source <(kubectl completion bash); echo "source <(kubectl completion bash)" >> ~/.bashrc;
